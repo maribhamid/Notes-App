@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base:"/maribhamid-Notes-App",
+  base:"/Notes-App/",
 })
